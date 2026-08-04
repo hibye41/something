@@ -1,1 +1,3 @@
-
+User-agent: *
+Allow: /
+Sitemap: https://new-gardens.com/sitemap.xml
